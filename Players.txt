@@ -1,0 +1,6 @@
+Коля;20;Lesbian
+Петя;19;Gay
+Вася;25;Bisexual
+Ваня;30;Transgender
+Гриша;29;Bisexual
+Макс;45;Lesbian
